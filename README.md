@@ -52,9 +52,9 @@ if (codeWorking){
 ![](https://github-readme-stats.vercel.app/api?username=samudiSenevirathne&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samudiSenevirathne&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- GitHub Streaks 🔥
+## GitHub Streaks 🔥
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samudiSenevirathne&theme=highcontrast&hide_border=false)
--->
+
 
 ## GitHub Trophies 🏆
 ![](https://github-profile-trophy.vercel.app/?username=samudiSenevirathne&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
